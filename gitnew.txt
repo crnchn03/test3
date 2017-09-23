@@ -1,0 +1,3 @@
+added file contect in github web. Now pull the changes to test3 folder from Linux. 
+command to use $git pull
+
